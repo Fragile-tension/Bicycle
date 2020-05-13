@@ -44,7 +44,7 @@ body {
   max-width: 1600px; }
 
 .header {
-  margin: 30px 0 0px 0;
+  margin: 0;
   height: 800px;
   background: url(https://i.ibb.co/gzDVj7w/header-bg.png) center no-repeat;
   background-size: cover; }
@@ -139,7 +139,8 @@ body {
     font-family: Lato;
     font-size: 18px;
     font-weight: 400;
-    line-height: 34px; }
+    line-height: 34px;
+    text-align: justify; }
 
 .grid__item_2 {
   -ms-grid-row: 2;
